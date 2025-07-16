@@ -1,17 +1,11 @@
 <div align="center">
     <img height="200" src="https://66.media.tumblr.com/tumblr_m7p4frvYfl1rup2f3o1_400.gif">
-  </div>
+ 
+[![Discord Presence](https://lanyard.cnrad.dev/api/330702585352683520?theme=dark&bg=null&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/330702585352683520)
 
-
-
-<div align="center">
-        
- [![Discord Presence](https://lanyard.cnrad.dev/api/330702585352683520?theme=dark&bg=null&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/330702585352683520)
-
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=slumpio&count=3)
 
 </div>
-  
+
 
 
 
